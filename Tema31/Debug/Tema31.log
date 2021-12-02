@@ -1,0 +1,4 @@
+﻿  Tema31.cpp
+C:\Users\Cezar\source\repos\Tema31\Tema31\Tema31.cpp(32,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cezar\source\repos\Tema31\Tema31\Tema31.cpp(72,27): warning C4018: '<': signed/unsigned mismatch
+  Tema31.vcxproj -> C:\Users\Cezar\source\repos\Tema31\Debug\Tema31.exe
