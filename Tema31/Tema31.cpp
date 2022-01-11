@@ -218,22 +218,4 @@ int main()
         }
     }
 
-    /*meniu1 = meniu1 + "optiune1";
-    meniu1 = meniu1 + "optiune2";
-    meniu1 = meniu1 + "optiune3";
-    meniu1.showMenu();
-
-    
-    meniu2 = meniu2 + "optiune4";
-    meniu2 = meniu2 + "optiune5";
-    meniu2 = meniu2 + "optiune6";
-    meniu2.showMenu();
-
-    meniu1 = meniu1 + meniu2;
-    meniu1.showMenu();
-
-    Menu meniu3("menu3");
-    meniu3 = meniu1 / 3;
-    meniu3.showMenu();*/
-
 }
