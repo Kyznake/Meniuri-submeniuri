@@ -18,7 +18,7 @@ pastreza primul nume;
 - operatorul / intre un meniu si un intreg (n) pentru extragerea unui submeniu
 alcatuit din primele (n) optiuni.
 Cerinte de implementare optionale:
-Utilizarea claselor iterator pentru parcurgerea listelor;
-Posibilitatea de stocare si restaurare a datelor;
-Tratarea exceptiilor;
-Dialogul cu utilizatorul prin intermediul unei interfete grafice.
+- Utilizarea claselor iterator pentru parcurgerea listelor;
+- Posibilitatea de stocare si restaurare a datelor;
+- Tratarea exceptiilor;
+- Dialogul cu utilizatorul prin intermediul unei interfete grafice.
