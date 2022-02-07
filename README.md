@@ -22,5 +22,3 @@ Cerinte de implementare optionale:
 Posibilitatea de stocare si restaurare a datelor;
 Tratarea exceptiilor;
 Dialogul cu utilizatorul prin intermediul unei interfete grafice.
-
-Am tratat operatorii/operatiile intre meniuri, urmeaza sa creez o interfata grafica pentru a le putea accesa mai usor.
