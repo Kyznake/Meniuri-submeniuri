@@ -1,0 +1,17 @@
+Wed Jan 12 20:11:24 2022: build-wrapper, version 6.28 (win-x86-64)
+Wed Jan 12 20:11:24 2022: isWow64: 0
+Wed Jan 12 20:11:24 2022: windows version: 6.2, service pack: 0.0, build number: 9200, product type: 1
+Wed Jan 12 20:11:24 2022: current directory: C:\Users\Cezar\source\repos\Tema31\x64\Release
+Wed Jan 12 20:11:24 2022: cwd: <C:\Users\Cezar\source\repos\Tema31\x64\Release>
+Wed Jan 12 20:11:24 2022: out-dir absolute path: <C:\Users\Cezar\source\repos\Tema31\x64\Release\build_wrapper_output_directory>
+Wed Jan 12 20:11:24 2022: command line received: <Tema31.exe /t:Rebuild>
+Wed Jan 12 20:11:24 2022: initializing json file
+Wed Jan 12 20:11:24 2022: starting debug cycle
+Wed Jan 12 20:11:24 2022: process created with pid: 24780
+Wed Jan 12 20:11:24 2022: image path name: <C:\Users\Cezar\source\repos\Tema31\x64\Release\Tema31.exe>
+Wed Jan 12 20:11:24 2022: command line: <Tema31.exe /t:Rebuild>
+Wed Jan 12 20:11:24 2022: working directory: <C:\Users\Cezar\source\repos\Tema31\x64\Release\>
+Wed Jan 12 20:11:24 2022: isWow64: 0
+Wed Jan 12 20:11:24 2022: skipping process C:\Users\Cezar\source\repos\Tema31\x64\Release\Tema31.exe with pid: 24780
+Wed Jan 12 20:12:05 2022: process with pid 24780 exit with code: 3221225786 (0xC000013A)
+Wed Jan 12 20:12:05 2022: finalizing json file

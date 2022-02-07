@@ -6,7 +6,6 @@
 using namespace std;
 
 int positions = 0;
-string listOfMenus[100];
 
 class Menu {
 
@@ -25,15 +24,13 @@ public:
         this->name = _name;
         this->position = positions;
         positions++;
-        listOfMenus[positions] = _name;
     }
 
     void showMenu() {
-    
-        cout << name << endl << endl;
 
+        cout << name << endl << endl;
         for (int i = 0; i < this->options.size(); i++) {
-            /*if (this->options[i] != "")*/ {
+            {
                 cout << i << " " << this->options[i] << endl;
                 cout << "------------------------------------------------------------------------------" << endl;
             }
@@ -180,8 +177,8 @@ int main()
         case 5:
             meniu1 = meniu1 + meniu2;
             cout << "Cele 2 meniuri au fost concatenate." << endl;
-            break;
             menuNumber = 0;
+            break;
         case 6:
             while (menuNumber != 1 && menuNumber != 2) {
                 cout << "Din care meniu doriti sa extrageti un submeniu?(1 sau 2)" << endl;
@@ -213,8 +210,8 @@ int main()
             exist = false;
             break;
         default:
-            break;
             exit(0);
+            break;
         }
     }
 

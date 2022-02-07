@@ -1,0 +1,9 @@
+1. Unused variable 'position'(Line 8).
+2. Instance fields should be prefixed with a 'm_'.
+3. Statements following return, break, continue, goto or throw will never be executed(Lines: 184, 217).
+4. Avoid methods too big, too complex.
+5. Avoid methods potentially poorly commented.
+6. Assignment to Variable without Use ('Unused Variable')(Line 21).
+7. Class has a constructor with 1 argument that is not explicit(Line 24).
+8. Member variable  is not initialized in the constructor(Line 19).
+9. Function parameter parametername should be passed by reference(Line 24).
